@@ -140,6 +140,8 @@ The prototype deliberately prioritizes **actionability × impact**, rather than 
 
 This helps operators focus on requests where intervention can still change the outcome.
 
+![Operations dashboard — prioritized risk queue](operations-dashboard.png)
+
 ---
 
 ### 6.2 Understand
@@ -164,6 +166,7 @@ the product should answer:
 
 > "This request is high risk because these observable conditions are occurring."
 
+![Operations dashboard — prioritized risk queue](understand-risk-explanation.png)
 ---
 
 ### 6.3 Decide
@@ -179,6 +182,8 @@ The recommendation should communicate:
 - alternative action where appropriate
 
 The operator remains in control.
+
+![Operations dashboard — prioritized risk queue](decision-support.png)
 
 **AI recommends. The human decides.**
 
