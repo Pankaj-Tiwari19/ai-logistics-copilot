@@ -1,5 +1,10 @@
 # AI Logistics Copilot
 
+## Live Demo
+
+**[Try the AI Logistics Copilot](https://ai-logistics-copilot-plum.vercel.app/)**
+
+> Demo journey: Operations → SR-26101 → Understand → Decide → Metrics
 > From risk detection to actionable decisions.
 
 An independent Product Management portfolio prototype exploring how AI can help logistics operations teams identify requests at risk, understand why they are at risk, and decide what to do next.
