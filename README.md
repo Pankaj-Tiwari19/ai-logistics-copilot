@@ -7,6 +7,12 @@
 > Demo journey: Operations → SR-26101 → Understand → Decide → Metrics
 > From risk detection to actionable decisions.
 
+### Product Case Study
+
+[Read the Product Case Study](./PRODUCT_CASE_STUDY.md)
+
+A detailed walkthrough of the problem, product thesis, user journey, prioritization approach, AI decision-support design, metrics, trade-offs, and future roadmap.
+
 An independent Product Management portfolio prototype exploring how AI can help logistics operations teams identify requests at risk, understand why they are at risk, and decide what to do next.
 
 ## Product Thesis
